@@ -1,25 +1,113 @@
-<h1 align="center">Olá, eu sou o Anthony 👋</h1> <p align="center">Desenvolvedor Full Stack Júnior · TypeScript · React · Node.js · Python</p> <p align="center"> <a href="https://www.linkedin.com/in/anthony-prates-de-vargas-843377358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:anthony.vargas.dev@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a> </p>
-🧑‍💻 Sobre mim
-💼 Desenvolvedor Full Stack Júnior na Ledius, construindo APIs com Node.js/Fastify e interfaces com Next.js/React
-🎓 Cursando Análise e Desenvolvimento de Sistemas no Senac-RS
-📈 Formado em Gestão Financeira pela La Salle
-🗄️ Qualificação técnica em Assistente de Administração de Banco de Dados (Senac-RS)
-🐍 Gosto de criar automações em Python que resolvem dores reais do dia a dia
-📍 Canoas, RS — Brasil
-🛠️ Stacks
-Categoria	Tecnologias
-Linguagens	<img src="https://skillicons.dev/icons?i=ts,js,java,py&theme=dark" alt="Linguagens" />
-Back-end	<img src="https://skillicons.dev/icons?i=nodejs,prisma&theme=dark" alt="Back-end" /><br />Fastify · Awilix · Zod · JWT
-Front-end	<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Front-end" /><br />HeroUI · TanStack Query · Zustand · React Hook Form
-Banco de dados	<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="Banco de dados" />
-Testes & Ferramentas	<img src="https://skillicons.dev/icons?i=vitest,git,github&theme=dark" alt="Ferramentas" /><br />Cursor · Linear
-📊 Estatísticas
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anthony-prates&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-prates&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Langs" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=Anthony-prates&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" /> </p>
-🚀 Projetos em destaque
-Projeto	Descrição	Stack
-palestrinhaGuru-web	Palestra apresentando ao time as tecnologias que uso para UI na web	Next.js · React · Tailwind
-OrganizaAI	Monorepo para organização de tarefas de casa	Monorepo
-Relatorio-XML	Automação que lê XMLs de andamentos e gera uma planilha XLSX organizada	Python
-Equilibra	Projeto Integrador Senac	Java
-📫 Contato
-<p align="left"> <a href="https://www.linkedin.com/in/anthony-prates-de-vargas-843377358"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:anthony.vargas.dev@outlook.com"><img src="https://img.shields.io/badge/anthony.vargas.dev@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" /></a> </p>
+# 👋 Olá, eu sou o Anthony Prates!
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;TypeScript+%7C+React+%7C+Node.js;Transformando+ideias+em+solu%C3%A7%C3%B5es" alt="Apresentação animada" />
+</p>
+
+<p align="center">
+  Desenvolvedor Full Stack Júnior, apaixonado por tecnologia, desenvolvimento de software e automação de processos. 🚀
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anthony-prates-de-vargas-843377358">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anthony.vargas.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" />
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+- 💼 **Desenvolvedor Full Stack Júnior na Ledius**, atuando no desenvolvimento de APIs com Node.js e Fastify e de interfaces web com Next.js e React.
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas pelo Senac-RS**.
+- 📚 Formado em **Gestão Financeira pela La Salle**.
+- 🗄️ Qualificação técnica em **Assistente de Administração de Banco de Dados pelo Senac-RS**.
+- 🐍 Interesse em automação com Python e desenvolvimento de soluções para problemas reais.
+- 💡 Sempre buscando aprimorar minhas habilidades em arquitetura de software, desenvolvimento web e boas práticas de programação.
+- 📍 Canoas, Rio Grande do Sul, Brasil.
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens de programação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python" alt="TypeScript, JavaScript, Java e Python" />
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastify,prisma" alt="Node.js, Fastify e Prisma" />
+</p>
+
+`Fastify` · `Awilix` · `Zod` · `JWT`
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind" alt="Next.js, React e Tailwind CSS" />
+</p>
+
+`HeroUI` · `TanStack Query` · `Zustand` · `React Hook Form`
+
+### Bancos de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL, MySQL e Redis" />
+</p>
+
+### Testes, ferramentas e ambiente de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vitest,git,github,docker,linux" alt="Vitest, Git, GitHub, Docker e Linux" />
+</p>
+
+`Cursor` · `Linear` · `DBeaver`
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [PalestrinhaGuru Web](https://github.com/Anthony-prates/palestrinhaGuru-web) | Apresentação sobre tecnologias e ferramentas utilizadas no desenvolvimento de interfaces web. | Next.js · React · Tailwind CSS |
+| [OrganizaAI](https://github.com/Anthony-prates/OrganizaAI) | Projeto em formato monorepo voltado à organização de tarefas domésticas. | Monorepo |
+| [Relatorio-XML](https://github.com/Anthony-prates/Relatorio-XML) | Automação para leitura de arquivos XML e geração de planilhas XLSX organizadas. | Python |
+| [Equilibra](https://github.com/Anthony-prates/Equilibra) | Projeto Integrador acadêmico com foco no desenvolvimento de uma aplicação desktop. | Java · Swing · MySQL |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Anthony-prates&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-prates&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Anthony-prates&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições no GitHub" />
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+Estou sempre aberto a trocar conhecimentos, compartilhar experiências e conversar sobre tecnologia e desenvolvimento de software.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anthony-prates-de-vargas-843377358">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
+  </a>
+  <a href="mailto:anthony.vargas.dev@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Entre em contato por e-mail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transformando ideias em código e código em soluções."</i>
+</p>
